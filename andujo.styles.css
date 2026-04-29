@@ -36,9 +36,7 @@ body {
     background-color: var(--light-gray);
     color: var(--dark-gray);
 }
-body {
-    background-color: hotpink !important;
-  }
+
 /* ----- CHECK FOR USER DARK MODE PREFERENCE ----- */
 /* --------------- BEGIN USER PREFERS DARK COLOR SCHEME QUERY --------------- */
 
